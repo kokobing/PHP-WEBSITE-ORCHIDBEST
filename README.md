@@ -1,5 +1,5 @@
 
-README
+README.
 ===========================
 A complete enterprise website, including the Frontend and Backend admin page.  is uploaded in the repositories because of the end of the project/product life cycle. The code is for learning only and prohibits any business related behavior,website does not use any MVC/CMS framework, very suitable for beginners PHP study.
 
